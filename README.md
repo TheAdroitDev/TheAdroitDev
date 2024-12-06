@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently building Projects **AdroitPass**
 
-- 🌱 I’m currently learning **PostgresSQL**
+- 🌱 Currently Learning **PostgresSQL**
 
 - 💬 Ask me about **NextJs , React**
 
