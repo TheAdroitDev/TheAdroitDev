@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently building Projects **AdroitPass**
 
-- 🌱 Currently Learning **PostgresSQL**
+- 🌱 Currently Learning **Aws**
 
-- 💬 Ask me about **NextJs , React**
+- 💬 Ask me about **NextJs, React, Nodejs, JavaScript, python and any general software development questions.**
 
 - 📫 How to reach me **theadroitdev@gmail.com**
 
