@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **theadroitdev@gmail.com**
 
-- ⚡ Fun fact **I Love Swimming**
+- ⚡ Fun fact **Swimming and coding are my two escapes, one from gravity and the other from reality!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
