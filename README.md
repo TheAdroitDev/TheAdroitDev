@@ -1,8 +1,8 @@
 <h3 align="center">MERN | Web Aficionado | Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently building Projects **AdroitPass**
+- 🔭 I’m currently building Projects ****
 
-- 🌱 Currently Learning **Aws**
+- 🌱 Currently Learning **Web Development**
 
 - 💬 Ask me about **NextJs, React, Nodejs, JavaScript, python and any general software development questions.**
 
