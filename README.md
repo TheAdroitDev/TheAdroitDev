@@ -1,6 +1,6 @@
 <h3 align="center">MERN | Web Aficionado | Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently building Projects ****
+- 🔭 I’m currently building a Strong Foundation Of JavaScript and Web
 
 - 🌱 Currently Learning **Web Development**
 
