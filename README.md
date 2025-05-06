@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **theadroitdev@gmail.com**
 
-- ⚡ Fun fact:-- I love nueroscience
+- ⚡ Fun fact:-- I love neuroscience 
   
 
 <h3 align="left">Connect with me:</h3>
