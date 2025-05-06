@@ -4,11 +4,11 @@
 
 - 🌱 Currently Learning **Web Development**
 
-- 💬 Ask me about **NextJs, React, Nodejs, JavaScript, python and any general software development questions.**
+- 💬 Ask me about **NextJs, React, Nodejs, JavaScript, and any general software development questions.**
 
 - 📫 How to reach me **theadroitdev@gmail.com**
 
-- ⚡ Fun fact:-- I love neuroscience 
+- ⚡ Fun fact:-- **I loves Neuroscience** 
   
 
 <h3 align="left">Connect with me:</h3>
