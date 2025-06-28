@@ -1,8 +1,6 @@
-<h3 align="center">MERN | Web Aficionado | Full-Stack Web Developer</h3>
+<h3 align="center">Software Developer & Products Builder| Web Aficionado | Full-Stack Developer</h3>
 
 - 🔭 Something big cooking up...
-
-- 🌱 Currently Learning **AI**
 
 - 💬 Ask me about **NextJs, React, Nodejs, JavaScript, and any general software development questions.**
 
@@ -14,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/theadroitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sv_inights" height="30" width="40" /></a>
-<a href="https://x.com/theadroitdev" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="discord" height="30" width="40" /></a>
+<a href="https://discord.com/users/theadroitdev" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
