@@ -1,4 +1,4 @@
-<h3 align="center">Software Developer & Products Builder| Web Aficionado | Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer| Web Aficionado </h3>
 
 - 🔭 Something big cooking up...
 
