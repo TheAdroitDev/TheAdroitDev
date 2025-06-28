@@ -1,19 +1,20 @@
 <h3 align="center">MERN | Web Aficionado | Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently building a Strong Foundation Of JavaScript and Web
+- 🔭 Something big cooking up...
 
-- 🌱 Currently Learning **Web Development**
+- 🌱 Currently Learning **AI**
 
 - 💬 Ask me about **NextJs, React, Nodejs, JavaScript, and any general software development questions.**
 
 - 📫 How to reach me **theadroitdev@gmail.com**
 
-- ⚡ Fun fact:-- **I loves Neuroscience** 
+- ⚡ Fun fact:-- **I love Neuroscience and anime** 
   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SV_Insights" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sv_inights" height="30" width="40" /></a>
+<a href="https://x.com/theadroitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sv_inights" height="30" width="40" /></a>
+<a href="https://x.com/theadroitdev" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
