@@ -1,10 +1,10 @@
-<h3 align="center">Full-Stack Developer| Web Aficionado </h3>
+<h3 align="center">Full-Stack Developer | Web Aficionado </h3>
 
 - 🔭 Something big cooking up...
 
 - 💬 Ask me about **NextJs, React, Nodejs, JavaScript, and any general software development questions.**
 
-- 📫 How to reach me **theadroitdev@gmail.com**
+- 📫 How to reach me **adroitdev.fun**
 
 - ⚡ Fun fact:-- **I love Neuroscience and anime** 
   
