@@ -103,7 +103,3 @@
   </a>
 </p>
 
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheAdroitDev&theme=github-dark)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=TheAdroitDev&theme=darkhub)
